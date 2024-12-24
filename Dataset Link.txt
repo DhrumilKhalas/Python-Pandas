@@ -1,16 +1,16 @@
-Dataset Links of different parts:
+Dataset Links for Different Parts:
 
-(1) Part 2: https://www.kaggle.com/datasets/utkarsharya/ecommerce-purchases
+--> Part 2: https://www.kaggle.com/datasets/utkarsharya/ecommerce-purchases
 
-(2) Part 3: https://www.kaggle.com/datasets/kaggle/sf-salaries
+--> Part 3: https://www.kaggle.com/datasets/kaggle/sf-salaries
 
-(3) Part 4: https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
+--> Part 4: https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
 
-(4) Part 5: https://www.kaggle.com/c/titanic
+--> Part 5: https://www.kaggle.com/c/titanic
 
-(5) Part 6: https://www.kaggle.com/datasets/lava18/google-play-store-apps
+--> Part 6: https://www.kaggle.com/datasets/lava18/google-play-store-apps
 
-(6) Part 7: https://www.kaggle.com/datasets/andrewmvd/udemy-courses
+--> Part 7: https://www.kaggle.com/datasets/andrewmvd/udemy-courses
 
-(7) Part 8: https://www.kaggle.com/datasets/rahuldogra/top5000youtubechannels
+--> Part 8: https://www.kaggle.com/datasets/rahuldogra/top5000youtubechannels
 
